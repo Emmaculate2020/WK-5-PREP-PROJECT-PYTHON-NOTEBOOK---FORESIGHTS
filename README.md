@@ -46,6 +46,12 @@
 
 ### How to contact us;
 
+colorotich@gmail.com
+
+shalynewaweru@gmail.com
+
+akotheokongo@gmail.com
+
 
 
 
