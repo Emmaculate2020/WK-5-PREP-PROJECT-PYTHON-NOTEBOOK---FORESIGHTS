@@ -1,2 +1,3 @@
 # WK-5-PREP-PROJECT-PYTHON-NOTEBOOK---FORESIGHTS
-Week 5 Data Science Preparation Project done by Group Foresights.
+We as Foresights Data Scientists, we were contracted by Bill and Melinda Gates Foundation to do a Data analysis based on the three major Counties/Districts where the practice of child labour was registered in Kenya based on various factors such as age, gender and reasons for dropping out.
+
