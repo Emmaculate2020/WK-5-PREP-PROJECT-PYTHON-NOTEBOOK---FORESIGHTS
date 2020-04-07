@@ -2,7 +2,7 @@
 
 ### Description
 
-- We as Foresights Data Scientists, we were contracted by Bill and Melinda Gates Foundation to do a Data analysis based on the data collected by The Kenya National Bureau of Statictics from the three major Counties/Districts where the practice of child labour was registered in Kenya. Our analysis is based on various factors such as age, gender, activities done, school going and reasons for dropping out of school.
+- This analysis was done by Foresights Data Scientists for Bill and Melinda Gates Foundation based on the data collected by The Kenya National Bureau of Statictics from the three major Counties/Districts where the practice of child labour was registered in Kenya. Our analysis is based on various factors such as age, gender, activities done, school going and reasons for dropping out of school.
 
 ### Objectives
 
