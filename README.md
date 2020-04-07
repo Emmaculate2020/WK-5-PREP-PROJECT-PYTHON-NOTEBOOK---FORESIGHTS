@@ -18,4 +18,34 @@
 
 - To find out the major reason why some children have never attended school and why.
 
+### Experimental Design
+
+- Data Understanding through exploration of the dataset.
+
+- Data Cleaning
+
+- Data Analysis
+
+- Data Visualization
+
+- Evaluation
+
+### Tools Required
+
+- Dataset from Kenya National Bureau of Statictics Website[https://1drv.ms/u/s!AgTd3gRWFb42kG7-5Lr59INA_CK3]
+
+- Google Colab
+
+- Python Libraries
+
+- Github
+
+### Known Bugs
+
+- No known bugs.
+
+### How to contact us;
+
+
+
 
