@@ -2,13 +2,13 @@
 
 ### Description
 
-- This analysis was done by Foresights Data Scientists for Bill and Melinda Gates Foundation based on the data collected by The Kenya National Bureau of Statictics from the three major Counties/Districts where the practice of child labour was registered in Kenya. Our analysis is based on various factors such as age, gender, activities done, school going and reasons for dropping out of school.
+- This analysis was done by Foresights Data Scientists for the Bill and Melinda Gates Foundation based on the data collected by The Kenya National Bureau of Statictics from the three major Counties(Kitui,Kilifi and Busia) where the practice of child labour was registered in Kenya. Our analysis is based on various factors such as age, gender, activities done, school going and reasons for dropping out of school.
 
 ### Objectives
 
 - To find out at what age do most children get subjected to child labour activities.
 
-- To find out which gender is more exposed to chil labour.
+- To find out which gender is more exposed to child labour.
 
 - To find out which activity do the subjected children do most.
 
