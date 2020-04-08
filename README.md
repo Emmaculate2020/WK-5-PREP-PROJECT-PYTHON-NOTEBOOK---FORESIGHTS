@@ -16,7 +16,7 @@
 
 - To find out why school going children drop out of school and reasons why they drop out.
 
-- To find out the major reason why some children have never attended school and why.
+- To find out the major reason why some children have never attended school.
 
 ### Experimental Design
 
@@ -30,7 +30,7 @@
 
 ### Tools Required
 
-- Dataset from Kenya National Bureau of Statictics Website[http://statistics.knbs.or.ke/nada/index.php/catalog/85/download/483 ]
+- Dataset from Kenya National Bureau of Statictics Website[https://bit.ly/3bZ1QKX]
 
 - Google Colab
 
