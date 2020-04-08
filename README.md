@@ -8,7 +8,7 @@
 
 - To find out at what age do most children get subjected to child labour activities.
 
-- To find out which gender is more exposed to chil labour.
+- To find out which gender is more exposed to child labour.
 
 - To find out which activity do the subjected children do most.
 
