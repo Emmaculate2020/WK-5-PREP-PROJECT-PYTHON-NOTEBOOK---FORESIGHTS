@@ -16,7 +16,9 @@
 
 - To find out why school going children drop out of school and reasons why they drop out.
 
-- To find out the major reason why some children have never attended school.
+- To find out the main reason why some children have never attended school.
+
+- To find out at what age do most children drop out of school.
 
 ### Experimental Design
 
