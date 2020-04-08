@@ -24,21 +24,21 @@
 
 - Data Cleaning
 
-- Data Analysis
-
-- Data Visualization
+- Data Analysis with SQL
 
 - Evaluation
 
 ### Tools Required
 
-- Dataset from Kenya National Bureau of Statictics Website[https://1drv.ms/u/s!AgTd3gRWFb42kG7-5Lr59INA_CK3]
+- Dataset from Kenya National Bureau of Statictics Website[http://statistics.knbs.or.ke/nada/index.php/catalog/85/download/483 ]
 
 - Google Colab
 
 - Python Libraries
 
 - Github
+
+- SQL libraries
 
 ### Known Bugs
 
