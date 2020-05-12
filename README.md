@@ -8,10 +8,8 @@
 
 - To find out at what age do most children get subjected to child labour activities.
 - To find out which gender is more exposed to child labour.
-
 - To find out which activity do the subjected children do most.
-
-iv) To find out which District is child labour mostly practiced.
+- To find out which District is child labour mostly practiced.
 
 - To find out why school going children drop out of school and reasons why they drop out.
 
