@@ -21,9 +21,9 @@
 
 ### Experimental Design
 
-1. Data Understanding through exploration of the dataset.
+- Data Understanding through exploration of the dataset.
 
-2. Data Cleaning
+- Data Cleaning
 
 - Data Analysis with SQL
 
